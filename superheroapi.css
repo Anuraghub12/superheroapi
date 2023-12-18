@@ -1,0 +1,29 @@
+#heading{
+    color:red;
+    position: relative;
+    padding-left: 40%;
+}
+#tagline{
+    color:darkblue;
+    position: relative;
+    padding-left: 30%;
+}
+#getNewHero{
+    position: relative;
+    padding-left: 30%;
+    color:darkblue;
+    display: inline-block;
+}
+#heroName{
+    position: relative;
+    padding-left: 30%;
+    color: red;
+}
+#hero{
+    position: relative;
+    padding-left: 40%;
+    color: red;
+}
+body{
+    background-color: black;
+}
